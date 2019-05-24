@@ -1,4 +1,4 @@
-Result : 
+Result: 
 ![result](https://raw.githubusercontent.com/chliwei199/images/master/result.PNG)
 
 
